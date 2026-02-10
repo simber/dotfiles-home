@@ -4,6 +4,6 @@ sudo apt update -y
 sudo apt install stow -y
 
 mkdir ~/.config
-cd ~/dotfiles-home
+cd ~/dotfiles
 stow starship
 
